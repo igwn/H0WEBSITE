@@ -7,6 +7,10 @@
         "GW190425":{
             "GW":"GW190425",
             "EM":[{"name":"FRB20190425A","type":"potential"}]
+        },
+        "S240422ed":{
+            "GW":"S240422ed",
+            "EM":[{"name":"Mag24a","type":"unlikely"}]
         }
     },
     "GW_data":{
@@ -22,6 +26,12 @@
             "id":"S190425z",
             "display_name":"GW190425",
             "reference":"https://doi.org/10.7935/qf3a-3z67"
+        },
+        "S240422ed":{
+            "src":"gracedb",
+            "id":"S240422ed",
+            "display_name":"S240422ed",
+            "reference":"https://gcn.nasa.gov/circulars/36236"
         }
     },
     "EM_data":{
@@ -54,6 +64,16 @@
             "ra_deg":255.72,
             "dec_deg":21.52,
             "reference":"https://doi.org/10.1038/s41550-023-01917-x"
+        },
+        "Mag24a":{
+            "src":"local",
+            "id":"Mag24a",
+            "display_name":"Mag 24a",
+            "cz_mean":14700.0,
+            "cz_sigma":4500.0,
+            "ra_deg":119.0234,
+            "dec_deg":-22.8979,
+            "reference":"https://gcn.nasa.gov/circulars/36267"
         }
     }
 }

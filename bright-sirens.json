@@ -52,7 +52,7 @@
     "display_name": "GW190425",
     "reference": "https://doi.org/10.7935/qf3a-3z67",
     "gracedb_meta": {
-      "retrieved": "2024-01-23T19:08:48.395",
+      "retrieved": "2024-05-31T16:18:42.840",
       "src": "https://gracedb.ligo.org/api/",
       "vonum": 2
     },
@@ -76,6 +76,39 @@
         "column_name": "GW190425_FRB20190425A",
         "gw_distance_mean": 139.66824778164863,
         "gw_distance_sigma": 44.33695762816573
+      }
+    }
+  },
+  "S240422ed": {
+    "src": "gracedb",
+    "id": "S240422ed",
+    "display_name": "S240422ed",
+    "reference": "https://gcn.nasa.gov/circulars/36236",
+    "gracedb_meta": {
+      "retrieved": "2024-05-31T16:19:19.449",
+      "src": "https://gracedb.ligo.org/api/",
+      "vonum": 4
+    },
+    "Skymap": "S240422ed_Bilby.offline0.multiorder.fits,0",
+    "Counterparts": {
+      "Mag24a": {
+        "src": "local",
+        "id": "Mag24a",
+        "display_name": "Mag 24a (unlikely)",
+        "cz_mean": 14700.0,
+        "cz_sigma": 4500.0,
+        "ra_deg": 119.0234,
+        "dec_deg": -22.8979,
+        "reference": "https://gcn.nasa.gov/circulars/36267",
+        "Parameters": {
+          "counterpart_cz": 14700.0,
+          "counterpart_sigma_cz": 4500.0,
+          "counterpart_ra": 2.077350216918219,
+          "counterpart_dec": -0.39964374679240955
+        },
+        "column_name": "S240422ed_Mag24a",
+        "gw_distance_mean": 181.3065145927685,
+        "gw_distance_sigma": 47.94138176943938
       }
     }
   }
