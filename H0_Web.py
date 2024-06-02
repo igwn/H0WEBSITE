@@ -168,6 +168,9 @@ else:
         "text/csv",
         key='download-csv')  
 
-# Display the content of Description.md
+# App description
+# As this is a rather long text,
+# the content is stored in a separate file (Description.md)
+# See #23
 description = read_file("Description.md")
 st.markdown(description)
