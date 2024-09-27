@@ -113,7 +113,16 @@ events that you have selected, and that the options may change over time.
 ## Credits and contacts
 
 The website is provided on behalf of the LIGO-Virgo-KAGRA collaboration.
-It was developed by \<\>.
+It was developed by (in alphabetical order):
+  - Hsin-Yu Chen (University of Texas at Austin)
+  - Mathieu Dubois (L2IT/CNRS)
+  - Luis Galvis (Universidad de Antioquia)
+  - Rachel Gray (Glasgow University)
+  - Tathagata Ghosh (IUCAA)
+  - Chris North (Cardiff University)
+  - Antonio Enea Romano (Universidad de Antioquia)
+  - Nicola Tamanini (L2IT/CNRS)
+  - Sergio Vallejo (Universidad de Antioquia)
 
 If you find an issue with the website, please report it on the [*Github
 repository*](https://github.com/igwn/h0-website).
