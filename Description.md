@@ -120,5 +120,5 @@ events that you have selected, and that the options may change over time.
 The website is provided on behalf of the LIGO-Virgo-KAGRA collaboration.
 It was developed by \<\>.
 
-If you find an issue with the website, please report it on the Github
-repository [*H0WEBSITE*](https://github.com/SergioVallejoP/H0WEBSITE).
+If you find an issue with the website, please report it on the [*Github
+repository*](https://github.com/igwn/h0-website).
