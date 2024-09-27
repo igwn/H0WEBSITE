@@ -117,7 +117,7 @@ It was developed by (in alphabetical order):
   - Hsin-Yu Chen (University of Texas at Austin)
   - Mathieu Dubois (L2IT/CNRS)
   - Luis Galvis (Universidad de Antioquia)
-  - Rachel Gray (Glasgow University)
+  - Rachel Gray (University of Glasgow)
   - Tathagata Ghosh (IUCAA)
   - Chris North (Cardiff University)
   - Antonio Enea Romano (Universidad de Antioquia)
